@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Umut Karakulak's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Umut Karakulak
+Data Scientist.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
